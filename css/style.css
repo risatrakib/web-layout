@@ -1,0 +1,345 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 100%;
+	float: left;
+	background-color: white;
+
+}
+
+.logo {
+	width: 50%;
+	float: left;
+}
+.logo img {
+	display: block;
+	width: 150px;
+
+}
+.menu {
+      width: 50%;
+      float: right;
+}
+nav ul {
+	list-style: none;
+
+
+}
+
+nav ul li {
+	display: inline-block;
+	margin: 20px 5px;
+
+
+}
+
+nav ul li a {
+	text-decoration: none;
+	font-size: 20px;
+	text-transform: uppercase;
+
+
+
+}
+
+.gallery {
+	    width: 100%;
+	    float: left;
+}
+.gallery img {
+
+}
+
+.feature {
+	
+
+		
+
+}
+
+.feature-one {
+	width: 25%;
+	height:270px ;
+	float: left;
+}
+.feature-one img {
+	display: block;
+	margin: 0 auto;
+}
+
+.feature-two {
+	width: 25%;
+	height:270px ;
+	float: left;
+
+
+}
+.feature-two img {
+	display: block;
+	margin: 0 auto;
+}
+
+.feature-three {
+	width: 25%;
+	height:270px ;
+	float: left;
+}
+.feature-three img {
+	display: block;
+	margin: 0 auto;
+}
+
+.feature-four {
+	width: 25%;
+	height:270px;
+	float: left;
+}
+
+.feature-four img {
+	display: block;
+	margin: 0 auto;
+}
+
+.one {
+	text-align: center;
+}
+.btn {
+	display: block;
+	margin: 0 auto;
+	padding: 8px;
+	background: #6EC1E4;
+	color: white;
+}
+
+.mobile{
+	
+}
+.mobile{
+	width:100%;
+	float:left;
+}
+.containerone{
+	width:1140px;
+	margin:0px auto;
+	
+}
+.glass{
+	width:45%;
+	background:#B7CCD3;
+	height:300px;
+	float:left;
+	
+	
+}
+.glassone{
+	width:45%;
+	background:#B4E1E1;
+	height:300px;
+	float:left;
+	
+}
+.glasstwo{
+	width:10%;
+	
+	float:left;
+	height:300px;
+	
+}
+.comb{
+	width:100%;
+	
+	float:left;
+	height:50px;
+}
+.mind{
+	width:45%;
+	
+	height:200px;
+	float:left;
+}
+.mind1{
+	width:10%;
+	
+	height:200px;
+	float:left;
+}
+.mind2{
+	width:45%;
+	
+	height:200px;
+	float:left;
+}
+.pakhi{
+	width:1400px;
+	height:120px;
+	background:lightgray;
+	float:left;
+	text-align:center;
+	padding:10px;
+	
+}
+.btnn{
+	display:block;
+	margin:0 auto;
+	padding:10px;
+	background:#6EC1E4;
+	color:white;
+}
+h3{
+	color:#095169;
+}
+.doyal{
+	padding:25px;
+}
+.ami {
+	padding: 25px;
+}
+.pankha{
+	text-align:center;
+	color:#095169;
+}
+.pok{
+	text-align:center;
+	color:black;
+	padding:50px;
+}
+.kotkot{
+	margin-left:100px;
+}
+.btn3{
+	margin:0 auto;
+	display:block;
+	padding:15px;
+	background:#6EC1E4;
+	color:white;
+}
+.jokjok{
+	width:1400px;
+	
+	height:200px;
+	float:left;
+	
+}
+.jokjok img{
+	display:block;
+	margin:0 auto;
+}
+.pot{
+	width:1400px;
+	background:gray;
+	height:150px;
+	float:left;
+}
+.cup{
+	width:1400px;
+	background:teal;
+	height:100px;
+	float:left;
+}
+.fan{
+	text-align:center;
+	margin-top:10px;
+	color:white;
+}
+.cat{
+	width:50%;
+	height:100px;
+	float:left;
+}
+.jup{
+	width:50%;
+	height:100px;
+	float:left;
+}
+.mice{
+	margin-top:7px;
+	text-align:center;
+	color:white;
+}
+.cup{
+	width:100%;
+}
+.rup{
+	width:100%;
+}
+.blog {
+
+
+}
+
+.blogone {
+		text-align:center;
+	    color:blue;
+}
+
+}
+
+
+
+.copyright-credit {
+	width: 50%;
+	float: left;
+
+
+}
+
+.social-icons {
+	width: 50%;
+	float: left;
+
+}
+
+.social-icons ul {
+
+}
+
+
+.social-icons ul li {
+	display: inline;
+	margin: 10px 20px;
+
+}
+
+.social-icons ul li a {
+	color: #fff;
+	font-size: 18px;
+
+}
+
+.fa.fa-facebook {
+	background-color: #4267B2;
+	color: #fff;
+	padding: 5px 8px;
+
+}
+
+.fa.fa-twitter {
+	background-color: #2CAAE1;
+	color: #fff;
+	padding: 5px 8px;
+
+}
+
+.fa.fa-paper-plane {
+	background-color: orange;
+	color: #fff;
+	padding: 5px 8px;
+
+
+}
+
+.fa.fa-linkedin-square {
+	background-color: #007BB6 ;
+	color: #fff;
+	padding: 5px 8px;
+
+
+}
